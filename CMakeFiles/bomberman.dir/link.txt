@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra   CMakeFiles/bomberman.dir/src/main.cpp.o  -o bomberman  -lsfml-audio -lsfml-window -lsfml-graphics -lsfml-system /usr/lib/x86_64-linux-gnu/libIrrlicht.so 
